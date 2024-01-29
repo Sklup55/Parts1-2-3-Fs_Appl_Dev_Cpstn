@@ -15,7 +15,7 @@ In this lab, you will:
 
 ## Prerequisites:
 
-1. Before moving forward, make sure you have finished the previous course: [Full Stack Application Development Project](https://learning.edx.org/course/course-v1:IBM+CAD0321EN+3T2022/home) and that the project is running as expected with the desired functionality and output.
+1. Before moving forward, make sure you have finished the previous course: < ahref="https://learning.edx.org/course/course-v1:IBM+CAD0321EN+3T2022/home">Full Stack Application Development Project</a> and that the project is running as expected with the desired functionality and output.
 
 2. Sentiment Analyzer service deployed on Code Engine should be deployed and accessible. Please refer to the section `Deploy sentiment analysis on Code Engine as a microservice` in the lab [Create Django Proxy Services Of Backend APIs](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0321EN-Coursera/labs/v2/m3/DjangoProxy.md.html) for the same.
 
