@@ -14,7 +14,7 @@ In this lab, you will:
 
 ## Prerequisites:
 
-1. You must have completed [[Optional] Hands on lab: Enhance your app - Part 1: Front-end](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0321EN-Coursera/labs/v2/m6/proj-enhancement-Coursera.md).
+1. You must have completed [Hands-on lab: Enhance your app; Part 1: Front-end]([https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0321EN-Coursera/labs/v2/m6/proj-enhancement-Coursera.md](https://github.com/Sklup55/Parts1-2-3-Fs_Appl_Dev_Cpstn/blob/master/Part01.md)).
 
 2. Sentiment Analyzer service on IBM Cloud Code Engine should be deployed and accessible. Please refer to the section `Deploy sentiment analysis on Code Engine as a microservice` in the lab [Create Django Proxy Services Of Backend APIs](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-CD0321EN-Coursera/labs/v2/m3/DjangoProxy.md.html) for the same.
 
